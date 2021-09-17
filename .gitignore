@@ -1,0 +1,10 @@
+# What to ignore
+
+/day1/calcproject/node_modules
+/day1/jestdemo/node_modules
+
+/day2/diceproject/node_modules
+
+/day3/phone/node_modules
+
+/ivankina_end_assignment_cars/node_modules
