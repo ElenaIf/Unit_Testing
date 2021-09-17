@@ -1,4 +1,4 @@
-# What to ignore
+# Node Modules to ignore
 
 /day1/calcproject/node_modules
 /day1/jestdemo/node_modules
